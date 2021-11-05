@@ -6,3 +6,7 @@ what will be predicted score if a student studies for 9.25 hrs/day?
 
 
 Dataset used : http://bit.ly/w-data 
+
+
+
+The problem is soveld using Linear Regression fron Sklearn 
